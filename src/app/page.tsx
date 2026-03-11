@@ -147,7 +147,7 @@ export default function Home() {
 
         {/* FOOTER */}
         <footer className="bg-red-500 text-white text-center py-4 text-sm">
-          © 2025 Poke666 | Datos de la PokeAPI
+          © 2025 Pokemon | Datos de la PokeAPI
         </footer>
       </div>
 
